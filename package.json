@@ -18,5 +18,8 @@
   },
   "devDependencies": {
     "@types/cors": "^2.8.16"
+  },
+  "engines": {
+    "node": "18.8.0"
   }
 }
